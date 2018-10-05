@@ -17,7 +17,7 @@ This repository is open to all members of the GitHub community. Any member may c
 ## What is Hacktoberfest?
 All about HACKTOBERFEST can you read in [here](https://codelatte.org/hacktoberfest-2018/) or from it's [Official Site](https://hacktoberfest.digitalocean.com/).
 
-## Add your name
+## Add Your Name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
