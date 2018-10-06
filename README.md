@@ -2,6 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/abaykan/hacktoberfest.svg)](https://github.com/abaykan/hacktoberfest/issues)
 [![GitHub forks](https://img.shields.io/github/forks/abaykan/hacktoberfest.svg)](https://github.com/abaykan/hacktoberfest/network)
 [![GitHub stars](https://img.shields.io/github/stars/abaykan/hacktoberfest.svg)](https://github.com/abaykan/hacktoberfest/stargazers)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/abaykan/hacktoberfest.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fabaykan%2Fhacktoberfest)
 
 <pre>
       {_}
