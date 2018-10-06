@@ -1,6 +1,6 @@
 #### Name: [Abay](https://github.com/abaykan/)
 - Place: Indonesia
-- Bio: Proudly Owner of [Codelatte Indonesia](https://codelatte.org/)
+- Bio: Proudly Owner of [Codelatte Indonesia](https://codelatte.org/).
 - GitHub: [Abay](https://github.com/abaykan/)
 
 #### Name: [I Kadek Mahardika](https://github.com/kadekmahardika)
@@ -21,5 +21,9 @@
 #### Name: [Ricky](https://github.com/RickyHempel)
 - Place: U.S.
 - Bio: - 
-- GitHub: [Ricky Hempel] https://github.com/RickyHempel.
+- GitHub: [Ricky Hempel] (https://github.com/RickyHempel).
 
+#### Name: [Konrad Klawikowski](https://github.com/RootPixl)
+- Place: Gdańsk, Poland
+- Bio: Design and engineering. I love math and physics. I also love coffee, tea, yoga, good books, great music and silent meditation while.
+- GitHub: [RootPixl](https://github.com/RootPixl).
