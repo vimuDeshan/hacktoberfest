@@ -12,3 +12,8 @@
 - Place: U.S.
 - Bio: - 
 - GitHub: [SRPrescott](https://github.com/srprescott).
+
+#### Name: [Siddhant](https://github.com/sziddhant)
+- Place: India.
+- Bio: - 
+- GitHub: [sziddhant](https://github.com/sziddhant).
