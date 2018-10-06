@@ -26,3 +26,11 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
 ```
+
+### Give this Project a Star :star:
+
+If you liked working on this project, please share this project as much 
+as you can and star this project to help as many people in opensource as you can.
+
+
+:tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
