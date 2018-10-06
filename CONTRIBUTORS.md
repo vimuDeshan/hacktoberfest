@@ -17,3 +17,9 @@
 - Place: India.
 - Bio: - 
 - GitHub: [sziddhant](https://github.com/sziddhant).
+
+#### Name: [Ricky](https://github.com/RickyHempel)
+- Place: U.S.
+- Bio: - 
+- GitHub: [Ricky Hempel] https://github.com/RickyHempel.
+
