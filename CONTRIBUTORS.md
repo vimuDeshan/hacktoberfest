@@ -17,3 +17,8 @@
 - Place: India.
 - Bio: - 
 - GitHub: [sziddhant](https://github.com/sziddhant).
+
+#### Name: [Konrad Klawikowski](https://github.com/RootPixl)
+- Place: Gdańsk, Poland
+- Bio: Design and engineering. I love math and physics. I also love coffee, tea, yoga, good books, great music and silent meditation while.
+- GitHub: [RootPixl](https://github.com/RootPixl)
